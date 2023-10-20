@@ -1,0 +1,11 @@
+h1{
+    font-family: 'Verdana';
+    font-weight: bold;
+}
+#intro{
+    font-family: 'Verdana';
+    font-size: 15px;
+}
+body{
+    background-image: url("fondo.gif");
+}
